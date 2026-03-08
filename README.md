@@ -1,4 +1,3 @@
-# kishor01234
 # 💫 About Me:
 i'm currently working on web development<br>i'd like to collaborate on web designs<br>i'm learning coding
 
